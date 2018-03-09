@@ -1,0 +1,4 @@
+include *.rst
+recursive-include docs *
+recursive-include {{cookiecutter.package_name}}/static *
+recursive-include {{cookiecutter.package_name}}/templates *
